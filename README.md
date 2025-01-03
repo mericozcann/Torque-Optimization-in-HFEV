@@ -28,12 +28,16 @@ Simulation Capabilities: Model testing under different parameter configurations 
 Flexibility: Easily adaptable for other mechanical systems or vehicles requiring torque optimization.
 
 ## Requirements
-### Programming Language: Python 3.x
+### Programming Language: 
+Python 3.x
 
 ### Libraries:
 numpy: For numerical computations
+
 pandas: For data manipulation
+
 matplotlib: For visualization
+
 scipy (optional): For advanced optimization techniques
 
 # Hidrojen Yakıtlı Elektrikli Araçta Tork Optimizasyonu (HFEV)
