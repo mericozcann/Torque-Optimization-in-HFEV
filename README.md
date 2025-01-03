@@ -18,14 +18,19 @@ r: Wheel radius (m)
 
 ## Key Features
 Mathematical Analysis: In-depth analysis of the torque formula to ensure physical accuracy and parameter compatibility.
+
 Parameter Optimization: Strategic adjustment of mass, acceleration, and wheel radius for maximum torque efficiency.
+
 Data Visualization: Graphical representation of torque trends based on parameter variations.
+
 Simulation Capabilities: Model testing under different parameter configurations to evaluate system performance.
+
 Flexibility: Easily adaptable for other mechanical systems or vehicles requiring torque optimization.
 
 ## Requirements
-Programming Language: Python 3.x
-Libraries:
+### Programming Language: Python 3.x
+
+### Libraries:
 numpy: For numerical computations
 pandas: For data manipulation
 matplotlib: For visualization
