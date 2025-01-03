@@ -60,15 +60,24 @@ r: Tekerlek yarıçapı (m)
 
 ## Temel Özellikler
 Matematiksel Analiz: Tork formülünün fiziksel doğruluğunu ve parametre uyumluluğunu detaylı şekilde inceleme.
-Parametre Optimizasyonu: Maksimum tork verimliliği için kütle, ivme ve tekerlek yarıçapının stratejik olarak ayarlanması.
-Veri Görselleştirme: Parametre değişimlerine göre tork eğilimlerinin grafiksel olarak sunulması.
-Simülasyon Yeteneği: Farklı parametre konfigürasyonlarında sistem performansının test edilmesi.
-Esneklik: Tork optimizasyonu gerektiren diğer mekanik sistemler veya araçlar için kolayca uyarlanabilir.
-Gereksinimler
-Programlama Dili: Python 3.x
 
-## Kütüphaneler:
+Parametre Optimizasyonu: Maksimum tork verimliliği için kütle, ivme ve tekerlek yarıçapının stratejik olarak ayarlanması.
+
+Veri Görselleştirme: Parametre değişimlerine göre tork eğilimlerinin grafiksel olarak sunulması.
+
+Simülasyon Yeteneği: Farklı parametre konfigürasyonlarında sistem performansının test edilmesi.
+
+Esneklik: Tork optimizasyonu gerektiren diğer mekanik sistemler veya araçlar için kolayca uyarlanabilir.
+
+## Gereksinimler
+### Programlama Dili: 
+Python 3.x
+
+### Kütüphaneler:
 numpy: Sayısal hesaplamalar için
+
 pandas: Veri manipülasyonu için
+
 matplotlib: Görselleştirme için
+
 scipy (isteğe bağlı): İleri düzey optimizasyon teknikleri için
