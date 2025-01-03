@@ -8,21 +8,19 @@ Torque = 𝑚 × 𝑎 × 𝑟
 
 where:
 
-𝑚
 m: Mass (kg)
-𝑎
 a: Acceleration (m/s²)
-𝑟
 r: Wheel radius (m)
-The study evaluates the influence of each parameter on torque and identifies optimal ranges to balance energy consumption and mechanical efficiency.
+### The study evaluates the influence of each parameter on torque and identifies optimal ranges to balance energy consumption and mechanical efficiency.
 
-Key Features
+## Key Features
 Mathematical Analysis: In-depth analysis of the torque formula to ensure physical accuracy and parameter compatibility.
 Parameter Optimization: Strategic adjustment of mass, acceleration, and wheel radius for maximum torque efficiency.
 Data Visualization: Graphical representation of torque trends based on parameter variations.
 Simulation Capabilities: Model testing under different parameter configurations to evaluate system performance.
 Flexibility: Easily adaptable for other mechanical systems or vehicles requiring torque optimization.
-Requirements
+
+##Requirements
 Programming Language: Python 3.x
 Libraries:
 numpy: For numerical computations
