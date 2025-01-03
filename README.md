@@ -49,11 +49,10 @@ Tork = 𝑚 × 𝑎 × 𝑟
 
 burada:
 
-𝑚
 m: Kütle (kg)
-𝑎
+
 a: İvme (m/s²)
-𝑟
+
 r: Tekerlek yarıçapı (m)
 
 ### Bu çalışma, her parametrenin tork üzerindeki etkilerini değerlendirir ve enerji tüketimi ile mekanik verimlilik arasındaki dengeyi optimize etmek için uygun aralıkları belirler.
