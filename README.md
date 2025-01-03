@@ -2,14 +2,9 @@
 ### This project explores the optimization of torque in mechanical systems using key parameters such as mass, acceleration, and wheel radius. By analyzing the mathematical relationships between these parameters, the project aims to enhance both vehicle performance and energy efficiency. The findings provide actionable insights for applications in automotive design, energy systems, and performance engineering.
 
 ## Overview
-### Torque, a critical parameter in mechanical systems, determines rotational force. This project employs the formula:
-Torque
-=
-𝑚
-×
-𝑎
-×
-𝑟
+### Torque, a critical parameter in mechanical systems, determines rotational force. 
+### This project employs the formula:
+Torque = 𝑚 × 𝑎 × 𝑟
 Torque=m×a×r
 where:
 
@@ -34,3 +29,40 @@ numpy: For numerical computations
 pandas: For data manipulation
 matplotlib: For visualization
 scipy (optional): For advanced optimization techniques
+
+Tork Optimizasyonu Çalışması
+Bu proje, mekanik sistemlerde torkun optimize edilmesine yönelik çalışmaları içermektedir. Kütle, ivme ve tekerlek yarıçapı gibi temel parametrelerin matematiksel ilişkileri analiz edilerek, araç performansı ve enerji verimliliğinin artırılması hedeflenmiştir. Çalışma, otomotiv tasarımı, enerji sistemleri ve performans mühendisliği gibi alanlar için uygulanabilir içgörüler sunmaktadır.
+
+Genel Bakış
+Tork, mekanik sistemlerde döndürücü kuvvetin belirlenmesinde kritik bir parametredir. Projede aşağıdaki formül kullanılmaktadır:
+Tork
+=
+𝑚
+×
+𝑎
+×
+𝑟
+Tork=m×a×r
+burada:
+
+𝑚
+m: Kütle (kg)
+𝑎
+a: İvme (m/s²)
+𝑟
+r: Tekerlek yarıçapı (m)
+Bu çalışma, her parametrenin tork üzerindeki etkilerini değerlendirir ve enerji tüketimi ile mekanik verimlilik arasındaki dengeyi optimize etmek için uygun aralıkları belirler.
+
+Temel Özellikler
+Matematiksel Analiz: Tork formülünün fiziksel doğruluğunu ve parametre uyumluluğunu detaylı şekilde inceleme.
+Parametre Optimizasyonu: Maksimum tork verimliliği için kütle, ivme ve tekerlek yarıçapının stratejik olarak ayarlanması.
+Veri Görselleştirme: Parametre değişimlerine göre tork eğilimlerinin grafiksel olarak sunulması.
+Simülasyon Yeteneği: Farklı parametre konfigürasyonlarında sistem performansının test edilmesi.
+Esneklik: Tork optimizasyonu gerektiren diğer mekanik sistemler veya araçlar için kolayca uyarlanabilir.
+Gereksinimler
+Programlama Dili: Python 3.x
+Kütüphaneler:
+numpy: Sayısal hesaplamalar için
+pandas: Veri manipülasyonu için
+matplotlib: Görselleştirme için
+scipy (isteğe bağlı): İleri düzey optimizasyon teknikleri için
