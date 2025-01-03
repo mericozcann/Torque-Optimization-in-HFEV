@@ -5,7 +5,7 @@
 ### Torque, a critical parameter in mechanical systems, determines rotational force. 
 ### This project employs the formula:
 Torque = 𝑚 × 𝑎 × 𝑟
-Torque=m×a×r
+
 where:
 
 𝑚
