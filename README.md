@@ -40,6 +40,8 @@ matplotlib: For visualization
 
 scipy (optional): For advanced optimization techniques
 
+
+
 # Hidrojen Yakıtlı Elektrikli Araçta Tork Optimizasyonu (HFEV)
 ### Bu proje, mekanik sistemlerde torkun optimize edilmesine yönelik çalışmaları içermektedir. Kütle, ivme ve tekerlek yarıçapı gibi temel parametrelerin matematiksel ilişkileri analiz edilerek, araç performansı ve enerji verimliliğinin artırılması hedeflenmiştir. Çalışma, otomotiv tasarımı, enerji sistemleri ve performans mühendisliği gibi alanlar için uygulanabilir içgörüler sunmaktadır.
 
