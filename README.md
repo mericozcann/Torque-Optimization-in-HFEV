@@ -2,7 +2,7 @@
 ### This project explores the optimization of torque in mechanical systems using key parameters such as mass, acceleration, and wheel radius. By analyzing the mathematical relationships between these parameters, the project aims to enhance both vehicle performance and energy efficiency. The findings provide actionable insights for applications in automotive design, energy systems, and performance engineering.
 
 ## Overview
-Torque, a critical parameter in mechanical systems, determines rotational force. This project employs the formula:
+### Torque, a critical parameter in mechanical systems, determines rotational force. This project employs the formula:
 Torque
 =
 𝑚
